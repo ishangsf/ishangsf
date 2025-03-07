@@ -26,6 +26,6 @@ I'm shunfeng.
 ---
 
 <div>
-  <img src="https://github-readme-stats-ah9ewdmxm-ishangsfs-projects.vercel.app/api?username=ishangsf" alt="GitHub stats" align="left" width="46%">
-  <img src="https://github-readme-stats-ah9ewdmxm-ishangsfs-projects.vercel.app/api/wakatime?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
+  <img src="https://github-readme-stats-git-main-ishangsfs-projects.vercel.app/api?username=ishangsf" alt="GitHub stats" align="left" width="46%">
+  <img src="https://github-readme-stats-git-main-ishangsfs-projects.vercel.app/api/wakatime?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
 </div>
