@@ -27,5 +27,6 @@ I'm shunfeng.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ishangsf" alt="GitHub stats" align="left" width="46%">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangsf)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
 </div>
