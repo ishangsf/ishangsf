@@ -24,6 +24,7 @@ I'm shunfeng.
 <code><a href="https://www.nginx.com/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"></a></code>
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangsf)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github-readme-stats-git-main-ishangsfs-projects.vercel.app/api?username=ishangsf" alt="GitHub stats" align="left" width="46%">
