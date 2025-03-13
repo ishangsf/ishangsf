@@ -25,7 +25,7 @@ I'm shunfeng.
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishangsf)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
 <div>
   <img src="https://github-readme-stats-git-main-ishangsfs-projects.vercel.app/api?username=ishangsf" alt="GitHub stats" align="left" width="46%">
   <img src="https://github-readme-stats-git-main-ishangsfs-projects.vercel.app/api/wakatime?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
