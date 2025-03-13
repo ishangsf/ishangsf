@@ -26,6 +26,10 @@ I'm shunfeng.
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ishangsf&show_icons=true" alt="GitHub stats" align="left" width="46%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishangsf&langs_count=5" alt="Top Langs" align="right" width="46%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishangsf&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishangsf&repo=convoychat" />
+  </a>
 </div>
